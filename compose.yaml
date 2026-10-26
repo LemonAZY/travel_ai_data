@@ -1,0 +1,13 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_PATH: /code/data/travel.db
+      CORS_ORIGINS: http://localhost:3000
+    volumes:
+      - travel_data:/code/data
+    restart: unless-stopped
+volumes:
+  travel_data:
