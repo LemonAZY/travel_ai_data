@@ -1,0 +1,83 @@
+[
+  {
+    "id": "sochi",
+    "name": "Сочи",
+    "country": "Россия",
+    "type": "sea",
+    "avg_temp_november_c": 11,
+    "sea_swimming_possible_november": false,
+    "visa_required_for_russians": false,
+    "main_hub": "Аэропорт Сочи",
+    "tags": [
+      "море",
+      "тёплый ноябрь",
+      "с детьми",
+      "недорого"
+    ]
+  },
+  {
+    "id": "kaliningrad",
+    "name": "Калининград",
+    "country": "Россия",
+    "type": "city",
+    "avg_temp_november_c": 4,
+    "sea_swimming_possible_november": false,
+    "visa_required_for_russians": false,
+    "main_hub": "Аэропорт Храброво",
+    "tags": [
+      "город",
+      "море",
+      "европейская атмосфера",
+      "короткий перелёт"
+    ]
+  },
+  {
+    "id": "kazan",
+    "name": "Казань",
+    "country": "Россия",
+    "type": "city",
+    "avg_temp_november_c": 1,
+    "sea_swimming_possible_november": false,
+    "visa_required_for_russians": false,
+    "main_hub": "Аэропорт Казань",
+    "tags": [
+      "город",
+      "еда",
+      "культура",
+      "короткий перелёт",
+      "поезд"
+    ]
+  },
+  {
+    "id": "spb",
+    "name": "Санкт-Петербург",
+    "country": "Россия",
+    "type": "city",
+    "avg_temp_november_c": 3,
+    "sea_swimming_possible_november": false,
+    "visa_required_for_russians": false,
+    "main_hub": "Аэропорт Пулково",
+    "tags": [
+      "город",
+      "музеи",
+      "поезд",
+      "короткий перелёт"
+    ]
+  },
+  {
+    "id": "antalya",
+    "name": "Анталья",
+    "country": "Турция",
+    "type": "sea",
+    "avg_temp_november_c": 19,
+    "sea_swimming_possible_november": false,
+    "visa_required_for_russians": false,
+    "main_hub": "Аэропорт Анталья",
+    "tags": [
+      "море",
+      "тёплый ноябрь",
+      "всё включено",
+      "с детьми"
+    ]
+  }
+]
